@@ -559,7 +559,7 @@ public class ListUtils {
      * {@link Collection#contains(Object)}.
      *
      * @param <E>  the element type
-     * @param collection  the collection whose contents are the target of the #retailAll operation
+     * @param collection  the collection whose contents are the target of the #retainAll operation
      * @param retain  the collection containing the elements to be retained in the returned collection
      * @return a {@code List} containing all the elements of {@code c}
      * that occur at least once in {@code retain}.
